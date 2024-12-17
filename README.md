@@ -13,9 +13,6 @@ I'm currently exploring topics such as machine learning, web development, and cl
 
 
 
-## 🚀 Fun Facts
 
-- I love coding while sipping on a cup of coffee.
-- Hiking and photography are my go-to activities for relaxation.
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
