@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 
 ## 🔧 Technologies & Tools
 
-- Python, C++
+- Python, C++, Machine Learning, Data Science, Natural Language Processing, TensorFlow, Pandas, Docker, Git, SQL
 
 
 ## 🌱 Currently Learning
